@@ -12,9 +12,9 @@ MSc in Applied Statistics, fascinated by Data Science
 
 ## My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younesamraouii&count_private=true&show_icons=true&hide=issues,contribs)  
+![](https://github-readme-stats.vercel.app/api?username=younesamraouii&count_private=true&show_icons=true&hide=issues,contribs)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younesamraouii&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=younesamraouii&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=younesamraouii)
 
