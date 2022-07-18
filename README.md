@@ -2,4 +2,4 @@
 
 - 📫 How to reach me: amraouiyounes@outlook.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younesamraouii&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younesamraouii&count_private=true&show_icons=true&hide=issues,contribs&theme=gotham)
